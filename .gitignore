@@ -9,6 +9,7 @@
 #
 # Normal rules
 #
+gcc-4.9*/
 out/
 .*
 *.o
